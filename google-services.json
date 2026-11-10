@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481418844921",
+    "project_id": "pinly-1a452",
+    "storage_bucket": "pinly-1a452.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481418844921:android:6daef05eb7d1bb8d4c2028",
+        "android_client_info": {
+          "package_name": "com.gatchalian.pinly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481418844921-reuuect6kflopq7kd4u2pk2pvnt2ijhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gatchalian.pinly",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "481418844921-uicn9eta9jj4d75e3hfk3db59i2hlta9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjzY-bGI64yck_OTV28vCT80RzQIt6bAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481418844921-uicn9eta9jj4d75e3hfk3db59i2hlta9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
